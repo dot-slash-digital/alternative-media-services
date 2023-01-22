@@ -1,1 +1,21 @@
-{"scope":"/","start_url":"/","display":"standalone","icons":[{"sizes":"192x192","type":"image/png","src":"//img1.wsimg.com/isteam/ip/8c30d484-ca97-4cdb-9257-1c94969ad300/logo/b1205911-8704-46d8-9a86-6eb76ccd8ad3.png/:/rs=w:192,h:192,m"},{"sizes":"512x512","type":"image/png","src":"//img1.wsimg.com/isteam/ip/8c30d484-ca97-4cdb-9257-1c94969ad300/logo/b1205911-8704-46d8-9a86-6eb76ccd8ad3.png/:/rs=w:512,h:512,m"}],"name":"Alternative Media Services","short_name":"Alternative Media Services","theme_color":"015","background_color":"015"}
+{
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "sizes": "192x192",
+            "type": "image/webp",
+            "src": "images/icon-logo.webp"
+        },
+        {
+            "sizes": "512x512",
+            "type": "image/webp",
+            "src": "images/icon-logo.webp"
+        }
+    ],
+    "name": "Alternative Media Services",
+    "short_name": "Alternative Media Services",
+    "theme_color": "015",
+    "background_color": "015"
+}
